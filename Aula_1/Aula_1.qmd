@@ -1,0 +1,37 @@
+---
+title: "Aula_1"
+author: "Thiago Pacheco"
+format: html
+editor: visual
+---
+
+## Aula 1
+
+# Conceito de função
+
+y = f(x)
+
+Onde y é a variável resposta e x é a variável explicativa
+
+## Running Code
+
+```{r}
+y <- function(x) {
+    x + 2
+}
+```
+
+Código executável da função da sala de aula
+
+```{r}
+y(2)
+```
+
+# Gráfico
+
+```{r}
+plot(c(0:10), y(0:10))
+```
+
+# Fundamentos de R
+

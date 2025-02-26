@@ -1,0 +1,22 @@
+Sobre a tabela Rio_Itajai_Estuario
+
+ "Estacao"	Identificador da estação
+"Lat"		Latitude
+"Long"		Longitude
+"Local"		Local da coleta
+"Mês"		Mês da coleta
+"Draga"		Se houve dragagem
+"Temp"		Temperatura
+"pH"		pH
+"CatpH"		Categoria do pH
+"Sal"		Salinidade
+"Fino"		Sedimento Fino
+"Grosso"	Sedimento Grosso
+"MO"		Matéria Orgânica
+"Carb"		Concentração de Carbonatos
+"CatCarb"	Categoria dos Carbonatos
+"Cd"		Cádmio
+"Zn"		Zinco
+"Ni"		Níquel
+"Cr"		Cromo
+"Carb.imp"	
